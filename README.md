@@ -31,3 +31,9 @@ https://shopsphere-app.netlify.app/
 - Fake Store API
 
 ---
+
+##  Author
+
+Krish Shah
+
+---
