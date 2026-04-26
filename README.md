@@ -5,11 +5,6 @@ Users can browse products, add items to cart, manage wishlist, and search produc
 
 ---
 
-## 🚀 Live Demo
-https://shopsphere-app.netlify.app/
-
----
-
 ## 📌 Features
 
 - 🔍 Search products
